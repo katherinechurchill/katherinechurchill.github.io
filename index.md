@@ -4,23 +4,18 @@ You can use the [editor on GitHub](https://github.com/katherinechurchill/katheri
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Book Review | Poetry
-By Katherine Churchill  Dec 1, 2016
+## Book Review | Poetry
+By Katherine Churchill
+
 94 pp. Airlie Press. 2016. Paper, $16. 
-### [Amazon](https://www.amazon.com/Catalog-Broken-Things-Molotkov/dp/098957993X) | [Airlie Press](http://www.airliepress.org/the-catalog-of-broken-things)
+[Amazon](https://www.amazon.com/Catalog-Broken-Things-Molotkov/dp/098957993X) | [Airlie Press](http://www.airliepress.org/the-catalog-of-broken-things)
 
 
 # Header 1
 ## Header 2
 ### Header 3
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
