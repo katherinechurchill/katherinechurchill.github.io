@@ -14,6 +14,14 @@ By Katherine Churchill  Dec 1, 2016
 ## Header 2
 ### Header 3
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
