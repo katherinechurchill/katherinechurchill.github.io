@@ -5,9 +5,16 @@ You can use the [editor on GitHub](https://github.com/katherinechurchill/katheri
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Book Review | Poetry
-By Katherine Churchill | 94 pp. Airlie Press. 2016. Paper, $16. 
+By Katherine Churchill
+
+
+# The Catalog of Broken Things
+### By A. Molotkov
+
+94 pp. Airlie Press. 2016. Paper, $16. 
 
 [Amazon](https://www.amazon.com/Catalog-Broken-Things-Molotkov/dp/098957993X) | [Airlie Press](http://www.airliepress.org/the-catalog-of-broken-things)
+
 
 
 # Header 1
