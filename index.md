@@ -2,11 +2,21 @@
 
 ### Blog Post | Design Thinking
 
-IBM’s office is covered in sticky notes. Little neon squares dot up and down the walls, working together to weave ideas into solutions. They’re scribbled with ideas that are innovative, courageous, and bold – the ones that question. 
+IBM’s office is covered in sticky notes. Little neon squares dot up and down the walls, working together to weave ideas into solutions. They’re scribbled with drawings and notes intended to communicate ideas that are bold, innovative, and courageous– the ones that question the status quo and boldly ask how we can be better. Although design is often measured by its outcome or product, the act of design is actually hidden in the process.
+
+The Loop
 
 observe <-> reflect <-> make
 
-The Design Thinking process is a loop of reinvention. Its main goal is concerned with user experience: creating a framework to solve users’ problems at the speed and scale of a modern enterprise like IBM. The sticky notes give anyone a tactile way to Make: to give tangible form to abstract ideas and, in turn, convert intent into reality. These ideas begin with Observing the problem and trying to pin-down what others let loose: this is figuring out what’s important to the users, and then contrasting it against the user’s expectations. Bouncing in the middle between Observe and Make is Reflection; at first, this is the synthesis of what was gathered through observation. Observation becomes Reflection when teammates synthesize what was learned, and then come up with a plan of attack. 
+The Design Thinking process is a loop of reinvention. Its main goal is concerned with user experience: creating a framework to solve users’ problems at the speed and scale of a modern enterprise like IBM. The sticky notes give anyone a tactile way to Make: to give tangible form to abstract ideas and, in turn, convert intent into reality. These ideas begin with Observing the problem and trying to pin-down what others let loose. This is figuring out what’s important to the users, and then contrasting it against the user’s expectations. Bouncing in the middle between Observe and Make is Reflection; at first, this is the synthesis of what was gathered through observation. Observation becomes Reflection when teammates synthesize what was learned, and then come up with a plan of attack. 
+
+The Principles
+
+Design Thinking vacillates between three principles. Restless reinvention reigns supreme in a world that is moving faster than it has ever before. Reworking everything or even starting from scratch empowers new methods and thought: we don’t get stuck on an old method or process, and constantly adopt new ones. The second principle, concerned with maintaining empowered and diverse teams, was established by empowered and diverse teams who understand the importance of generating varied ideas. The weightiest principle of the three is a focus on user outcomes as a measure of success – “did we fulfill our users’ needs?” – in the process of moving from idea to outcome. 
+
+Design Thinking has the power to be the great equalizer. It offers a new start to old ideas and encourages failure to be a generator of audacity, boldness, courage, and a break-through. 
+
+***
 
 
 ### Blog Post | Recycling
