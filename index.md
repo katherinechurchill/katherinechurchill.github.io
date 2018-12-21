@@ -19,8 +19,7 @@ By Katherine Churchill
 
 Molotkov abandons the framing power of the title and the tight formalism of structured poetic forms in favor of something looser; to be contained within a form is to be contained within a structure that doesn’t allow for the way that he communicates action, emotion, and character. Parts One and Three follow a loose poetic form that often mimics the rhythm of sounds and the image of shapes. Parts Two and Four run on prose forms that parallel each other; the simultaneous structure and looseness of the form allows Molotkov to intersperse the text with a form that visually widens and recedes:   
 
-> In the final experiment, I’m the rabbit, and
-
+> In the final experiment, I’m the rabbit, and  
 > you, the wheat field. I press my haunches
 
 > into your fertile soil, each leap eternal.
