@@ -72,7 +72,7 @@ If you’re looking for something life altering, The Catalog of Broken Things is
 ### Claudia Rankine
 
 By Katherine Churchill | 155 pp. Graywolf Press. 2004. Paper, $14. 
-
+------------ | -------------
 [Amazon](https://www.amazon.com/Dont-Let-Me-Be-Lonely/dp/1555974074) | [Graywolf Press](https://www.graywolfpress.org/books/dont-let-me-be-lonely)
 
 “IMH, The Inability to Maintain Hope,” she writes, an acronymic diminution for that “which translates into no innate trust in the supreme laws that govern us.” In her third book of poetry, “Don’t Let me Be Lonely,” Claudia Rankine takes the reader for a visual, spatial, auditory, and spiritual walk along the inside of the binding. The conversational, unexpected, and spontaneous—perhaps idiosyncratic—tone of her words conveys something about the experiences of the poet as a reactionary to the world around her. This world, of illness, of the American media, as affected by time and death, is a world that nurtures nihilism, disconnectedness, over-medication, and emptiness.
