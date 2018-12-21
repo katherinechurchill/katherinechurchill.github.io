@@ -77,12 +77,12 @@ Rankine abandons the framing power of the title and the tight formalism of tradi
 > been asked to assess the value of her dead children’s    
 > lives…  
 
-> Mostly we discuss what should...be included in the 
+> Mostly we discuss what should...be included in the  
 > portrait of her children’s lives…  
 > Each activity is a sign, a sign that points to social  
 > class, which points to potential worth. The private school,  
-> the tennis lessons, the soccer team, the scuba med-  
-> al… were all headed somewhere.  
+> the tennis lessons, the soccer team, the scuba medal...  
+> were all headed somewhere.  
 
 Rankine skillfully dismantles the severity of the content of this poem—another poem with no name, prefaced by the twelfth photo of a cathode-ray tube monitor—by cutting through it with the opening aside about suppository Monistat, and the conversational, analytical tone of the language used. The subject of the poem, the poet’s dead niece and nephew, suggests sadness, anger, a reaction—but she doesn’t give in, and calmly decides that the “somewhere” was a “place of compensation divorced from compassion.” 
 
@@ -90,16 +90,16 @@ Rankine skillfully dismantles the severity of the content of this poem—another
 
 She concludes her collection with meditations on poetry and its place in a new twenty-first century America:
 	
-> Or Paul Celan said that the poem was no different 
-> from a handshake. I cannot see any basic difference 
-> between a handshake and a poem—is how Rosemary 
+> Or Paul Celan said that the poem was no different  
+> from a handshake. I cannot see any basic difference  
+> between a handshake and a poem—is how Rosemary  
 
-> Waldrop translated his German. The handshake is our 
-> decided ritual of both asserting (I am here) and hand- 
-> ing over (here) a self to another. Hence the poem is 
+> Waldrop translated his German. The handshake is our  
+> decided ritual of both asserting (I am here) and hand-  
+> ing over (here) a self to another. Hence the poem is  
 > that—Here. I am here. This conflation of the solidarity  
-> of presence with the offering of this same presence per- 
-> haps has everything to do with being alive.
+> of presence with the offering of this same presence per-  
+> haps has everything to do with being alive.  
 
 The unfastened quality of form, the informal quality of tone, and the invaluable aid of image are the tools through which she establishes her reaction to the America affected by the dawn of the twenty-first century; she is reacting to a world that cultivates emptiness and nihilism through over-medication, death, injustice, and illness. Rankine invites the reader, through the gentleness of her form, to see and feel alongside her, where “in order for something to be handed over a hand must extend and a hand must receive. We must both be here in this world in this life in this place indicating the presence of.”
 
