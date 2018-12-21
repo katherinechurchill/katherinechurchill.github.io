@@ -55,7 +55,7 @@ Some applaud the charter school model, which was first developed in the early 19
 Charter schools are still under the hand of the state, where private schools are not, and have to answer to state tests. Most charter school students in the New Orleans area underperform on these state tests. Charter school performance or underperformance is complied into a number and a letter grade yearly, which is made up of performance on state tests, attendance, and dropout figures. These numbers are gathered, analyzed, and publicized under a collection of School Performance Scores in an Excel spreadsheet available to anybody with a mind to find it. 
 
 ![Image of St. Dominic's School in Lakeview, October 14, 2005.](/images/Picture2.png) 
-Image of St. Dominic's School in Lakeview, October 14, 2005.[the74million.org](https://www.the74million.org/article/photo-history-after-katrina-devastation-and-renewal-inside-new-orleans-schools/)
+Image of St. Dominic's School in Lakeview, October 14, 2005. [the74million.org](https://www.the74million.org/article/photo-history-after-katrina-devastation-and-renewal-inside-new-orleans-schools/)
 
 Below are short biographies of four students from different backgrounds attending three different charter schools in the New Orleans area, and some words on their experiences there.
 
