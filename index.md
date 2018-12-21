@@ -166,25 +166,16 @@ The unfastened quality of form, the informal quality of tone, and the invaluable
 
 ***
 
-### Blog Post | The Pareto Principle
+### Blog Post | Charter Schools in a Post-Katrina New Orleans
 
-The Pareto Principle (otherwise known as the 80/20 rule) is a concept from Italian economist Vilfredo Pareto, who demonstrates that 20% of inputs create 80% of the result. The concept suggests that targeting two out of ten items, on any general to-do list, will turn out to be more effective than the other eight items put together. 
+September 2, 2005: the day that water levels were at their peak after Hurricane Katrina hit the metropolitan area of New Orleans eight days earlier. Everyone took a hard hit from underneath the barrage of water—perhaps the biggest blow was administered to the already-failing New Orleans Public School District. Schools that stood for centuries were crippled by mildew and wood rot, and some were swept away altogether. The charter school model, lauded by psychologists and administrators as reward for result, was implemented as the public school system was auctioned and gutted. The effect has rippled out to every student in the New Orleans metropolitan area, but is this effect positive or negative? 
 
-For example:
+Charter schools are defined by publiccharters.org in their core belief: “public schools should be held accountable for student learning; in exchange for accountability, schools are given freedom to do whatever it takes to help students achieve.” They are open to all children, are tuition-free, and there are no special-entrance requirements. 
 
-* 20% of the input creates 80% of the result
-* 20% of the workers produce 80% of the result
-* 20% of the customers create 80% of the revenue
-* 20% of the bugs cause 80% of the crashes
-* 20% of the features cause 80% of the usage
+Legislation created the Recovery School District in 2003. It wasn’t created to take over the entirety of the public school sector in New Orleans, and they only operated four charter schools in the New Orleans metropolitan area pre-Katrina. After the disaster, the Louisiana legislature passed Act 35 on November 22, 2005, which granted the state of Louisiana to take over entire school districts if more than 30 of the schools within the district were “low-performance”—if they didn’t meet a specific set of criteria set up by the state. The New Orleans Independent School District fit into this criteria pre-Katrina, and so the state of Louisiana took over the district, calculated assets, and auctioned it off to the highest bidder: The New Orleans Recovery School District (RSD).
 
-Remember, this isn’t a rigid mathematical rule, but more a concept about typical distributions. This principle is a corollary of the law of diminishing returns—as you get further along, the later actions won’t have as strong of an impact as the early ones. That’s why it’s often easier to get, say, a delivery center representative from 85% to 95% quality, but that final push to 98% is often the hardest. 
+Some applaud the charter school model, which was first developed in the early 1990’s. Some will tell you that it was the best solution to the enormous problems facing New Orleans’ public education system even before Hurricane Katrina wasted the city. Some argue that the state mishandled the district auction and turnover, citing both ethical and financial reasons for the improper public to private handoff of the education sector that many believe should always remain public. Some don’t take issue with the shift from public-to-private, but see problems in the way that New Orleans charter schools are operating: some schools, like Lusher Charter School in Uptown require admissions tests, which allow them to pick-and-choose who is admitted. Charter schools don’t have to follow the same regulations that traditional public schools are subject to; some residents look into the impoverished communities of New Orleans and see charter schools that are too disciplinary. Some look at the charter schools in the same areas and see a staff of teachers that are too young, too inexperienced, and too white, leaving much of the youth in these predominantly black or mixed communities without black role models in their communities to look up to.
 
-With this in mind, the Pareto chart is a basic data visualization to explain and support the idea that we should prioritize efforts in the areas they will have the most impact. Now, let's use one of our basic data pulls to create a Pareto chart to visualize an intuitive concept—that when creating a corrective action plan, we should focus on the 20% of error types that are creating 80% of the inconsistencies (i.e. the top error drivers).
+Charter schools are still under the hand of the state, where private schools are not, and have to answer to state tests. Most charter school students in the New Orleans area underperform on these state tests. Charter school performance or underperformance is complied into a number and a letter grade yearly, which is made up of performance on state tests, attendance, and dropout figures. These numbers are gathered, analyzed, and publicized under a collection of School Performance Scores in an Excel spreadsheet available to anybody with a mind to find it. 
 
-Note: Keep in mind that the x-axis value is illustrative—really, any grouped root cause will work here. For example, if you went through and did a labeling analysis (and used consistent labels) you could also group through that as well to demonstrate edge case impact, auditor error impact, etc. 
-
-![Image of Pareto Graph](/images/Picture1.png) 
-
-This Pareto chart highlights what a professional team should focus on to solve for error trends and low consistency scores. For example, targeting first five issues would take care of half (50%) of the consistency drivers. You can use this information to justify focus, request resources from management (and demonstrate the need), or to prioritize your own work. 
-
+![Image of St. Dominic's School in Lakeview, October 14, 2005. [the74million.org](https://www.the74million.org/article/photo-history-after-katrina-devastation-and-renewal-inside-new-orleans-schools/)](/images/Picture2.png) 
