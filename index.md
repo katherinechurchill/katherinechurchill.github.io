@@ -1,5 +1,12 @@
 ## Katherine Churchill
 
+### Blog Post | Design Thinking
+
+IBM’s office is covered in sticky notes. Little neon squares dot up and down the walls, working together to weave ideas into solutions. They’re scribbled with ideas that are innovative, courageous, and bold – the ones that question. 
+
+observe <-> reflect <-> make
+
+The Design Thinking process is a loop of reinvention. Its main goal is concerned with user experience: creating a framework to solve users’ problems at the speed and scale of a modern enterprise like IBM. The sticky notes give anyone a tactile way to Make: to give tangible form to abstract ideas and, in turn, convert intent into reality. These ideas begin with Observing the problem and trying to pin-down what others let loose: this is figuring out what’s important to the users, and then contrasting it against the user’s expectations. Bouncing in the middle between Observe and Make is Reflection; at first, this is the synthesis of what was gathered through observation. Observation becomes Reflection when teammates synthesize what was learned, and then come up with a plan of attack. 
 
 
 ### Blog Post | Recycling
