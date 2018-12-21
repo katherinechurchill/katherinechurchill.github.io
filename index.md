@@ -138,4 +138,4 @@ With this in mind, the Pareto chart is a basic data visualization to explain and
 Note: Keep in mind that the x-axis value is illustrative—really, any grouped root cause will work here. For example, if you went through and did a labeling analysis (and used consistent labels) you could also group through that as well to demonstrate edge case impact, auditor error impact, etc. 
 
 ![Image of Pareto Graph]
-(katherinechurchill.github.io/images/Picture1.png)
+(https://katherinechurchill.github.io/images/Picture1.png)
