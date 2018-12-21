@@ -1,8 +1,20 @@
 ## Katherine Churchill
 
+### Blog Post | The Pareto Principle
+
+The Pareto Principle (otherwise known as the 80/20 rule) is a concept from an Italian economist that demonstrates that 20% of inputs create 80% of the result. For example:
+
+* 20% of the input creates 80% of the result
+* 20% of the workers produce 80% of the result
+* 20% of the customers create 80% of the revenue
+* 20% of the bugs cause 80% of the crashes
+* 20% of the features cause 80% of the usage
+
+
+
 ### Blog Post | Recycling
 
-New Orleans is known for its culture, spirit, and perpetual good time. Unfortunately, that good time often comes at a price: sometimes it’s a bar tab gone haywire or a flat tire from driving around the Quarter, but most of the time, we pay the price in glass. The City of New Orleans does not collect glass as part of their recycling program, though glass is ideal for recycling because no product is wasted or material degraded during the process. Most citizens of New Orleans have a difficult time finding a glass recycler, let alone one that’s in a convenient location. We’ve compiled four places to recycle glass in New Orleans and some extra tips about how to get more out of the recycle process.
+New Orleans is known for its culture, spirit, and perpetual good time. Unfortunately, that good time often comes at a price: sometimes it’s a bar tab gone haywire or a flat tire from driving around the Quarter, but most of the time, we pay the price in glass. The City of New Orleans does not collect glass as part of their recycling program, though glass is ideal for recycling because no product is wasted or material degraded during the process. Most citizens of New Orleans have a difficult time finding a glass recycler, let alone one that’s in a convenient location. I’ve compiled four places to recycle glass in New Orleans and some extra tips about how to get more out of the recycle process.
 
 1. **[Whole Foods Market on Broad St.](https://www.wholefoodsmarket.com/stores/broadstreet) –** there are three Whole Foods in the New Orleans area, but this is the only one that accepts glass recycling. Located near the parking lot, there are also recycling stations for plastics 1-5 and 7, cardboard, paint, batteries, and other materials that are difficult to get rid of. Tip: the store awards ten cents off your purchase for every re-usable bag you use to pack your groceries. Located at 300 N. Broad St., New Orleans, LA 70119; open from 7 a.m. to 9 p.m. seven days a week. (504) 434-3364.
 
