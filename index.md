@@ -1,13 +1,11 @@
 ## Katherine Churchill
 
-## Book Review | Poetry
-By Katherine Churchill
-
+### Book Review | Poetry
 
 # The Catalog of Broken Things
 ### By A. Molotkov
 
-94 pp. Airlie Press. 2016. Paper, $16. 
+By Katherine Churchill | 94 pp. Airlie Press. 2016. Paper, $16. 
 
 [Amazon](https://www.amazon.com/Catalog-Broken-Things-Molotkov/dp/098957993X) | [Airlie Press](http://www.airliepress.org/the-catalog-of-broken-things)
 
@@ -53,14 +51,12 @@ The speaker processes death from a young perspective in 8: “My grandmother is 
 
 If you’re looking for something life altering, The Catalog of Broken Things is not for you. Although he misses the mark in his use of surrealism, Molotkov invites the reader to see and feel alongside the speaker, where “veins have no traffic lights, no stop signs. Blood laughs at high speeds. Life boils our white cells, runs from the scene of the accident. We are the eggs of our future selves.”
 
-## Book Review | Poetry
-By Katherine Churchill
-
+### Book Review | Poetry
 
 # Don't Let Me Be Lonely: An American Lyric
 ### By Claudia Rankine
 
-155 pp. Graywolf Press. 2004. Paper, $14. 
+By Katherine Churchill | 155 pp. Graywolf Press. 2004. Paper, $14. 
 
 [Amazon](https://www.amazon.com/Dont-Let-Me-Be-Lonely/dp/1555974074) | [Graywolf Press](https://www.graywolfpress.org/books/dont-let-me-be-lonely)
 
