@@ -1,9 +1,24 @@
 ## Katherine Churchill
 
+### Blog Post | Recycling
+
+New Orleans is known for its culture, spirit, and perpetual good time. Unfortunately, that good time often comes at a price: sometimes it’s a bar tab gone haywire or a flat tire from driving around the Quarter, but most of the time, we pay the price in glass. The City of New Orleans does not collect glass as part of their recycling program, though glass is ideal for recycling because no product is wasted or material degraded during the process. Most citizens of New Orleans have a difficult time finding a glass recycler, let alone one that’s in a convenient location. We’ve compiled four places to recycle glass in New Orleans and some extra tips to get more out of the recycle experience.
+
+1. [Whole Foods Market on Broad St.](https://www.wholefoodsmarket.com/stores/broadstreet) – there are three Whole Foods in the New Orleans area, but this is the only one that accepts glass recycling. Located near the parking lot, there are also recycling stations for plastics 1-5 and 7, cardboard, paint, batteries, and other materials that are difficult to get rid of. Tip: the store awards ten cents off your purchase for every re-usable bag you use to pack your groceries. Located at 300 N. Broad St., New Orleans, LA 70119; open from 7 a.m. to 9 p.m. seven days a week. (504) 434-3364.
+
+2. [Target Metairie on Veterans Blvd.](https://www.target.com/sl/metairie/1449) – this Target accepts glass, but only if it is in reasonable condition—no broken glass is accepted. Located in Metairie, the trip requires a car or a bus if you’re travelling from anywhere within the New Orleans metropolitan area. Tip: use a Ride Share or carpool with friends to save money and fuel. Located at 4500 Veterans Memorial Blvd, Metairie, LA 70006; open from 8 a.m. to 12 a.m. Monday through Saturday and from 8 a.m. to 11 p.m. on Sundays. (504) 888-2184.
+
+3. [City of New Orleans Recycling Drop-Off Center on Elysian Fields Ave.](https://www.nola.gov/sanitation/recycling/drop-off/)  – while this recycling program allows for the most glass recycling at once (up to 50 lbs.), it is only open from 8 a.m. to 1 p.m. the second Saturday of every month, and lines are usually long when they are accepting glass. Tip: they recycle Mardi Gras beads, too. Located at 2829 Elysian Fields Ave., New Orleans, LA 70122; check nola.gov/sanitation/recycling/drop-off for specific recycle dates. (504) 658-2299.
+
+4. Tulane University Glassblowing Center – perfect for students looking to get some glass off their hands, this recycle center only accepts clear and green glass (no colors) and in smaller quantities. The drop-off location is by the Tulane gate entrance on West Road; a utility trailer is located by the Woldenberg Arts Center and glass is sorted into clear and green piles. Tip: this location is accessible at all times, making it a convenient drop-off place. Located at 6823 St. Charles Ave., New Orleans, LA 70118. (504) 865-5000.
+
+Now, you may be thinking, “why are there only four places to recycle glass in the whole city?” New Orleans discontinued curbside glass recycling post-Katrina and all efforts to revive the program have failed. This means that there is not a market for glass recycling in New Orleans, and many of these drop-off locations contract sanitation companies to pick up glass and other recyclables. The nature of the situation makes it difficult for drop-off locations to accept glass at all times. Call ahead to confirm that any location listed above is currently accepting glass.
+
+
 ### Book Review | Poetry
 
 # The Catalog of Broken Things
-### By A. Molotkov
+### A. Molotkov
 
 By Katherine Churchill | 94 pp. Airlie Press. 2016. Paper, $16. 
 
@@ -54,7 +69,7 @@ If you’re looking for something life altering, The Catalog of Broken Things is
 ### Book Review | Poetry
 
 # Don't Let Me Be Lonely: An American Lyric
-### By Claudia Rankine
+### Claudia Rankine
 
 By Katherine Churchill | 155 pp. Graywolf Press. 2004. Paper, $14. 
 
