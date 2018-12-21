@@ -20,21 +20,15 @@ By Katherine Churchill
 Molotkov abandons the framing power of the title and the tight formalism of structured poetic forms in favor of something looser; to be contained within a form is to be contained within a structure that doesn’t allow for the way that he communicates action, emotion, and character. Parts One and Three follow a loose poetic form that often mimics the rhythm of sounds and the image of shapes. Parts Two and Four run on prose forms that parallel each other; the simultaneous structure and looseness of the form allows Molotkov to intersperse the text with a form that visually widens and recedes:   
 
 > In the final experiment, I’m the rabbit, and  
-> you, the wheat field. I press my haunches
+> you, the wheat field. I press my haunches  
+> into your fertile soil, each leap eternal.  
+> you are tender under me. You make many  
+> sounds. The air smells of grass. Then you  
+> are the eagle, your swoop smooth and  
+> elegant, like a long parenthesis. I’m still  
+> the rabbit.  
 
-> into your fertile soil, each leap eternal.
-
-> you are tender under me. You make many
-
-> sounds. The air smells of grass. Then you
-
-> are the eagle, your swoop smooth and
-
-> elegant, like a long parenthesis. I’m still
-
-> the rabbit.
-
->  We study ourselves
+>  We study ourselves  
 >  under bright lights.
 	
 The subject of the poem suggests surprise, anger, a reaction—but the speaker doesn’t give in, and calmly decides that the circular roll of nature, of life, will continue. This seems to be the message of Part Two, strangely named “The Protagonist’s True Story.” Mostly written in the first person, these poems reveal the character of the speaker—but the poem also switches into a half-baked third-person omniscient point of view. It’s difficult to distinguish the purpose of the switch. The message is beautiful, certainly; however, the reader doesn’t become entrenched in this beauty, as they might want to, but becomes rather distracted by the cyclical nature of the form: this catalogue of images adds up to something, but what? The answer is not easily answerable, it seems, even in the looseness that prose form allows.
@@ -53,18 +47,12 @@ The most cohesive part of the collection is the eponymous Part One, “The Catal
 
 The speaker processes death from a young perspective in 8: “My grandmother is not / herself. / She has a room of dark fabric,” and punctuates this process by mimicking the rhythm of footsteps, “we listen for her / footsteps / when we can’t fall / asleep.” The focus on maternal figureheads rounds out the collection with a second poem about the speaker’s mother with a harshness that counterbalances the empathy of the first poem: 
  
-> She knows suns
-
-> and moons fail in the end. Boats
-
-> sink, rot. Marble 
-
-> crumbles. And now, I
-
-> know it too, I’m used to this
-
-> exit of others, this betrayal
-
+> She knows suns  
+> and moons fail in the end. Boats  
+> sink, rot. Marble  
+> crumbles. And now, I  
+> know it too, I’m used to this  
+> exit of others, this betrayal  
 > of permanence.
 
 If you’re looking for something life altering, The Catalog of Broken Things is not for you. Although he misses the mark in his use of surrealism, Molotkov invites the reader to see and feel alongside the speaker, where “veins have no traffic lights, no stop signs. Blood laughs at high speeds. Life boils our white cells, runs from the scene of the accident. We are the eggs of our future selves.”
