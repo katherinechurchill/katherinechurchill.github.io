@@ -4,17 +4,41 @@
 
 IBM’s office is covered in sticky notes. Little neon squares dot up and down the walls, working together to weave ideas into solutions. They’re scribbled with drawings and notes intended to communicate ideas that are bold, innovative, and courageous– the ones that question the status quo and boldly ask how we can be better. Although design is often measured by its outcome or product, the act of design is actually hidden in the process.
 
-The Loop
+#### The Loop
 
 observe <-> reflect <-> make
 
 The Design Thinking process is a loop of reinvention. Its main goal is concerned with user experience: creating a framework to solve users’ problems at the speed and scale of a modern enterprise like IBM. The sticky notes give anyone a tactile way to Make: to give tangible form to abstract ideas and, in turn, convert intent into reality. These ideas begin with Observing the problem and trying to pin-down what others let loose. This is figuring out what’s important to the users, and then contrasting it against the user’s expectations. Bouncing in the middle between Observe and Make is Reflection; at first, this is the synthesis of what was gathered through observation. Observation becomes Reflection when teammates synthesize what was learned, and then come up with a plan of attack. 
 
-The Principles
+#### The Principles
 
 Design Thinking vacillates between three principles. Restless reinvention reigns supreme in a world that is moving faster than it has ever before. Reworking everything or even starting from scratch empowers new methods and thought: we don’t get stuck on an old method or process, and constantly adopt new ones. The second principle, concerned with maintaining empowered and diverse teams, was established by empowered and diverse teams who understand the importance of generating varied ideas. The weightiest principle of the three is a focus on user outcomes as a measure of success – “did we fulfill our users’ needs?” – in the process of moving from idea to outcome. 
 
 Design Thinking has the power to be the great equalizer. It offers a new start to old ideas and encourages failure to be a generator of audacity, boldness, courage, and a break-through. 
+
+***
+
+### Blog Post | The Pareto Principle
+
+The Pareto Principle (otherwise known as the 80/20 rule) is a concept from Italian economist Vilfredo Pareto, who demonstrates that 20% of inputs create 80% of the result. The concept suggests that targeting two out of ten items, on any general to-do list, will turn out to be more effective than the other eight items put together. 
+
+For example:
+
+* 20% of the input creates 80% of the result
+* 20% of the workers produce 80% of the result
+* 20% of the customers create 80% of the revenue
+* 20% of the bugs cause 80% of the crashes
+* 20% of the features cause 80% of the usage
+
+Remember, this isn’t a rigid mathematical rule, but more a concept about typical distributions. This principle is a corollary of the law of diminishing returns—as you get further along, the later actions won’t have as strong of an impact as the early ones. That’s why it’s often easier to get, say, a delivery center representative from 85% to 95% quality, but that final push to 98% is often the hardest. 
+
+With this in mind, the Pareto chart is a basic data visualization to explain and support the idea that we should prioritize efforts in the areas they will have the most impact. Now, let's use one of our basic data pulls to create a Pareto chart to visualize an intuitive concept—that when creating a corrective action plan, we should focus on the 20% of error types that are creating 80% of the inconsistencies (i.e. the top error drivers).
+
+Note: Keep in mind that the x-axis value is illustrative—really, any grouped root cause will work here. For example, if you went through and did a labeling analysis (and used consistent labels) you could also group through that as well to demonstrate edge case impact, auditor error impact, etc. 
+
+![Image of Pareto Graph](/images/Picture1.png) 
+
+This Pareto chart highlights what a professional team should focus on to solve for error trends and low consistency scores. For example, targeting first five issues would take care of half (50%) of the consistency drivers. You can use this information to justify focus, request resources from management (and demonstrate the need), or to prioritize your own work. 
 
 ***
 
@@ -32,6 +56,8 @@ New Orleans is known for its culture, spirit, and perpetual good time. Unfortuna
 4. **Tulane University Glassblowing Center –** perfect for students looking to get some glass off their hands, this recycle center only accepts clear and green glass (no colors) and in smaller quantities. The drop-off location is by the Tulane gate entrance on West Road; a utility trailer is located by the Woldenberg Arts Center and glass is sorted into clear and green piles. Tip: this location is accessible at all times, making it a convenient drop-off place. Located at 6823 St. Charles Ave., New Orleans, LA 70118. (504) 865-5000.
 
 Now, you may be thinking, “why are there only four places to recycle glass in the whole city?” New Orleans discontinued curbside glass recycling post-Katrina and all efforts to revive the program have failed. This means that there is not a market for glass recycling in New Orleans, and many of these drop-off locations contract sanitation companies to pick up glass and other recyclables. The nature of the situation makes it difficult for drop-off locations to accept glass at all times. Call ahead to confirm that any location listed above is currently accepting glass.
+
+***
 
 
 ### Book Review | Poetry
@@ -86,6 +112,8 @@ The speaker processes death from a young perspective in 8: “My grandmother is 
 
 If you’re looking for something life altering, The Catalog of Broken Things is not for you. Although he misses the mark in his use of surrealism, Molotkov invites the reader to see and feel alongside the speaker, where “veins have no traffic lights, no stop signs. Blood laughs at high speeds. Life boils our white cells, runs from the scene of the accident. We are the eggs of our future selves.”
 
+***
+
 ### Book Review | Poetry
 
 # Don't Let Me Be Lonely: An American Lyric
@@ -136,6 +164,8 @@ She concludes her collection with meditations on poetry and its place in a new t
 
 The unfastened quality of form, the informal quality of tone, and the invaluable aid of image are the tools through which she establishes her reaction to the America affected by the dawn of the twenty-first century; she is reacting to a world that cultivates emptiness and nihilism through over-medication, death, injustice, and illness. Rankine invites the reader, through the gentleness of her form, to see and feel alongside her, where “in order for something to be handed over a hand must extend and a hand must receive. We must both be here in this world in this life in this place indicating the presence of.”
 
+***
+
 ### Blog Post | The Pareto Principle
 
 The Pareto Principle (otherwise known as the 80/20 rule) is a concept from Italian economist Vilfredo Pareto, who demonstrates that 20% of inputs create 80% of the result. The concept suggests that targeting two out of ten items, on any general to-do list, will turn out to be more effective than the other eight items put together. 
@@ -156,5 +186,5 @@ Note: Keep in mind that the x-axis value is illustrative—really, any grouped r
 
 ![Image of Pareto Graph](/images/Picture1.png) 
 
-This Pareto chart highlights what a quality team should focus on to solve for error trends and low consistency scores. For example, targeting first five issues would take care of half (50%) of the consistency drivers. You can use this information to justify your focus, request resources from management (and demonstrate the need), or to prioritize your own work. 
+This Pareto chart highlights what a professional team should focus on to solve for error trends and low consistency scores. For example, targeting first five issues would take care of half (50%) of the consistency drivers. You can use this information to justify focus, request resources from management (and demonstrate the need), or to prioritize your own work. 
 
