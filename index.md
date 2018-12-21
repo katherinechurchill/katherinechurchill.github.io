@@ -1,15 +1,5 @@
 ## Katherine Churchill
 
-### Blog Post | The Pareto Principle
-
-The Pareto Principle (otherwise known as the 80/20 rule) is a concept from an Italian economist that demonstrates that 20% of inputs create 80% of the result. For example:
-
-* 20% of the input creates 80% of the result
-* 20% of the workers produce 80% of the result
-* 20% of the customers create 80% of the revenue
-* 20% of the bugs cause 80% of the crashes
-* 20% of the features cause 80% of the usage
-
 
 
 ### Blog Post | Recycling
@@ -129,36 +119,22 @@ She concludes her collection with meditations on poetry and its place in a new t
 
 The unfastened quality of form, the informal quality of tone, and the invaluable aid of image are the tools through which she establishes her reaction to the America affected by the dawn of the twenty-first century; she is reacting to a world that cultivates emptiness and nihilism through over-medication, death, injustice, and illness. Rankine invites the reader, through the gentleness of her form, to see and feel alongside her, where “in order for something to be handed over a hand must extend and a hand must receive. We must both be here in this world in this life in this place indicating the presence of.”
 
+### Blog Post | The Pareto Principle
+
+The Pareto Principle (otherwise known as the 80/20 rule) is a concept from Italian economist Vilfredo Pareto, who demonstrates that 20% of inputs create 80% of the result. The concept suggests that targeting two out of ten items, on any general to-do list, will turn out to be more effective than the other eight items put together. 
+
+For example:
+
+* 20% of the input creates 80% of the result
+* 20% of the workers produce 80% of the result
+* 20% of the customers create 80% of the revenue
+* 20% of the bugs cause 80% of the crashes
+* 20% of the features cause 80% of the usage
+
+Remember, this isn’t a rigid mathematical rule, but more a concept about typical distributions. This principle is a corollary of the law of diminishing returns—as you get further along, the later actions won’t have as strong of an impact as the early ones. That’s why it’s often easier to get, say, a delivery center representative from 85% to 95% quality, but that final push to 98% is often the hardest. 
+
+With this in mind, the Pareto chart is a basic data visualization to explain and support the idea that we should prioritize efforts in the areas they will have the most impact. Now, let's use one of our basic data pulls to create a Pareto chart to visualize an intuitive concept—that when creating a corrective action plan, we should focus on the 20% of error types that are creating 80% of the inconsistencies (i.e. the top error drivers).
+
+Note: Keep in mind that the x-axis value is illustrative—really, any grouped root cause will work here. For example, if you went through and did a labeling analysis (and used consistent labels) you could also group through that as well to demonstrate edge case impact, auditor error impact, etc. 
 
 
-# Header 1
-## Header 2
-### Header 3
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katherinechurchill/katherinechurchill.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
